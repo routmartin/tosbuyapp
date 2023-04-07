@@ -1,0 +1,4 @@
+enum VerifyOtpInputStateCountDown{
+  countDown,
+  resend,
+}

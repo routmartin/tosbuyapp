@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "489380107214",
+    "project_id": "tos-tinh",
+    "storage_bucket": "tos-tinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489380107214:android:1b6ea99967f278d2ae119f",
+        "android_client_info": {
+          "package_name": "com.tostinh.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489380107214-5ncmi2hi83253jhkpsqvgogi4jfocdb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTjvv3w5iDYuB5YBvsJ-USWTFFLoo2XA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489380107214-5ncmi2hi83253jhkpsqvgogi4jfocdb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489380107214-10p4639m61o8eq13c4o8t6a8ti4e7rsj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tostinh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

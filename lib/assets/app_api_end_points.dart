@@ -1,0 +1,29 @@
+class AppApiEndPoints {
+  static const login = "auth/login";
+  static const register = "customer/register";
+  static const updateProfile = "customer/update/basic-info";
+  static const forgotPassword = "customer/forgot-password";
+  static const verfiyForgotPassword = "customer/verify-forgot-password";
+  static const verifyOTP = "customer/verify-otp";
+  static const refreshToken = "auth/refresh-token";
+  static const createAddress = "customer/address";
+  static const getAddress = "customer/address/list";
+  static const updateAddress = "customer/address/update";
+  static const deleteAddress = "customer/address/remove";
+  static const profileDetail = "customer/detail";
+  static const getPaymentMethod = "payment-method/list";
+  static const getProducts = "product/list";
+  static const getProductDetail = "product/detail";
+  static const getProductReview = "product-review/list";
+  static const addWishlist = "wishlist/add";
+  static const removeWishlist = "wishlist/remove";
+  static const getWissList = "wishlist/list";
+  static const getStores = "store/list";
+  static const followStore = "store/follow";
+  static const unfollowStore = "store/unfollow";
+  static const getStoreDetail = "store/detail";
+  static const addCart = "cart";
+  static const getCart = "cart/list";
+  static const removeCart = "cart/remove";
+  static const updateCart = "cart/update";
+}
